@@ -153,7 +153,7 @@ export default function App() {
               <h3 className="text-2xl font-bold mb-4">필수 프로그램 설치</h3>
               <p className="text-gray-500 mb-8 text-sm">모드팩 구동을 위해 CurseForge를 설치해주세요.</p>
               <motion.a
-                href="#"
+                href="https://www.curseforge.com/download/app"
                 target="_blank"
                 whileHover={{ scale: 1.05 }}
                 className="w-full py-4 bg-gray-800 text-white rounded-xl font-medium hover:bg-gray-900 transition-colors"
