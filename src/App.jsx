@@ -74,7 +74,7 @@ export default function App() {
       {/* 2. Hero Section */}
       <section id="home" className="relative h-screen flex flex-col items-center justify-center overflow-hidden bg-secondary-dark/5">
         {/* 임시 배경 (실제 서버 셰이더 이미지로 교체 필요) */}
-        <div className="absolute inset-0 w-full h-full object-cover opacity-20 bg-[url('https://source.unsplash.com/1920x1080/?nature,forest')] bg-center bg-cover" />
+        <div className="absolute inset-0 w-full h-full object-cover opacity-20 bg-[url('https://raw.githubusercontent.com/CreatorSyia/HVRE_File/refs/heads/main/1769817497588.png')] bg-center bg-cover" />
         
         <motion.div 
           initial={{ opacity: 0, y: 30 }}
