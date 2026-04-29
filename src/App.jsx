@@ -88,7 +88,7 @@ export default function App() {
           </h1>
           <div className="text-xl md:text-2xl text-gray-700 font-medium h-10">
             <Typewriter
-              words={['느린, 하지만 깊게.', '헤르빌에서 펼쳐지는 당신만의 이야기.']}
+              words={['느리게, 하지만 깊게.', '헤르빌 리부트에서 펼쳐지는 당신만의 이야기.']}
               loop={false}
               cursor
               cursorStyle='_'
