@@ -172,7 +172,7 @@ export default function App() {
               <p className="text-gray-500 mb-8 text-sm">헤르빌 전용 모드팩을 설치하고 게임을 실행하세요.</p>
               
               <motion.a
-                href="https://github.com/CreatorSyia/MCServerFiles/raw/refs/heads/Modpack/%ED%97%A4%EB%A5%B4%EB%B9%8C-5.3.zip"
+                href="https://github.com/CreatorSyia/HVRE_File/raw/refs/heads/main/Hereuville-Demo.zip"
                 target="_blank"
                 animate={{ scale: [1, 1.03, 1] }}
                 transition={{ repeat: Infinity, duration: 2 }}
